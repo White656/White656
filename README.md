@@ -1,5 +1,5 @@
 ### My statistics
-<p style=' background: black;' align="left"><img src="https://github-readme-stats.vercel.app/api?username=White656" alt="White656"/></p>
+<p  align="left"><img style=' background: black;' src="https://github-readme-stats.vercel.app/api?username=White656" alt="White656"/></p>
 <!--radical, merko, tokyonight-->
 
 ### Languages
