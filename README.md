@@ -1,5 +1,5 @@
 ### My statistics
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=White656&hide=html,css&title_color=ffffff&text_color=60338EFF&icon_color=4AB197&bg_color=1A2B34" alt="White656"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=White656&show_icons=true&theme=radical" alt="White656"/></p>
 <!--radical, merko, tokyonight-->
 
 ### Languages
