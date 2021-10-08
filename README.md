@@ -1,4 +1,4 @@
-### Hello. My name is Kirill I'm backend python developer.
+### Hello. My name is Kirill and I'm backend python developer.
 #### - I'm learning Vue.js 
 #### - Learning neural networks
 #### - I have more than 3 years of development experience
