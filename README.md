@@ -1,9 +1,3 @@
-### middle python developer.
-#### - learning Vue.js & neural networks
-#### - I've more than 3 years of development experience
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=White656&show_icons=true&theme=tokyonight" alt="White656"/></p>
 
-<!-- 
-### Languages
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=White656&show_icons=true&theme=tokyonight" alt="White656"/></p>
- -->
+
+![Metrics](https://metrics.lecoq.io/White656?template=classic&config)
