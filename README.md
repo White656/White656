@@ -20,12 +20,11 @@
 [![REDIS](https://img.shields.io/badge/-Redis-grey.svg?style=for-the-badge&logo=REDIS)](#)
 
 [![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker)](#)
-[![swarm](https://img.shields.io/badge/-kubernetes-grey?style=for-the-badge&logo=swarm)](#)
+[![SWARM](https://img.shields.io/badge/-kubernetes-grey?style=for-the-badge&logo=swarm)](#)
 [![Nginx](https://img.shields.io/badge/-Nginx-grey.svg?style=for-the-badge&logo=Nginx)](#)
 
 [![GIT](https://img.shields.io/badge/-Git-grey.svg?style=for-the-badge&logo=Git)](#)
 [![LINUX](https://img.shields.io/badge/-Linux-grey.svg?style=for-the-badge&logo=Linux)](#)
 [![MACOS](https://img.shields.io/badge/MacOS-grey.svg?style=for-the-badge&logo=Macos)](#)
 [![GITHUB](https://img.shields.io/badge/-Github-grey.svg?style=for-the-badge&logo=Github)](#)
-[![GITLAB](https://img.shields.io/badge/-Gitlab-grey.svg?style=for-the-badge&logo=Gitlab)](#)
 [![PYCHARM](https://img.shields.io/badge/VSCode-grey.svg?style=for-the-badge&logo=pycharm)](#)
