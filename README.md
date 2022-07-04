@@ -13,7 +13,6 @@
 [![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)](#)
 [![Django](https://img.shields.io/badge/-Django-grey?style=for-the-badge&logo=Django)](#)
 [![FLASK](https://img.shields.io/badge/-Flask-grey.svg?style=for-the-badge&logo=Flask)](#)
-<!--[![Flask](https://img.shields.io/badge/-Flask-grey.svg?style=for-the-badge&logo=Flask)](#)-->
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)](#)
 [![MYSQL](https://img.shields.io/badge/-MySQL-grey.svg?style=for-the-badge&logo=mysql)](#)
