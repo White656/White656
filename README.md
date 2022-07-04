@@ -20,7 +20,7 @@
 [![REDIS](https://img.shields.io/badge/-Redis-grey.svg?style=for-the-badge&logo=REDIS)](#)
 
 [![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker)](#)
-[![SWARM](https://img.shields.io/badge/-kubernetes-grey?style=for-the-badge&logo=swarm)](#)
+[![SWARM](https://img.shields.io/badge/-swarm-grey?style=for-the-badge&logo=swarm)](#)
 [![Nginx](https://img.shields.io/badge/-Nginx-grey.svg?style=for-the-badge&logo=Nginx)](#)
 
 [![GIT](https://img.shields.io/badge/-Git-grey.svg?style=for-the-badge&logo=Git)](#)
