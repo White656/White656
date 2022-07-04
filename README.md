@@ -1,11 +1,5 @@
 ### Hi there, I'm Kirill, Middle+ Back-End engineer! 👋
 
-- 🔭 I’m currently working on:
-  - [Budget Control](https://github.com/movpushmov/Budget-Control) - App, which can help to control your budget.
-  - [Windows UI React](https://github.com/movpushmov/winui-react) - React UI Library, which implements Windows UI (Windows 11) Design.
-  - [PolitCubes Web-site](https://vk.com/politcubes) - Military-political server in Minecraft.
-  - [MetisEarth](https://www.metisearth.com/) - a second earth; a metaverse on Metis Andromeda, in which real-world geolocations on a sectioned map correspond to user generated virtual environments. These environments can be owned, traded, and in the future, customized.
-
 ### Languages and Tools:
 
 [![HTML5](https://img.shields.io/badge/HTML5-grey.svg?style=for-the-badge&logo=HTML5)](#)
@@ -23,13 +17,9 @@
 [![GITLAB](https://img.shields.io/badge/-Gitlab-grey.svg?style=for-the-badge&logo=Gitlab)](#)
 [![WEBSTORM](https://img.shields.io/badge/Webstorm-grey.svg?style=for-the-badge&logo=Webstorm)](#)
 
-- How to reach me:
-  - [VK](https://vk.com/movpushmov)
-  - [Telegram](https://t.me/movpushmov)
-
 - :zap: Personal GitHub stats
 
-<img align="left" alt="movpushmov's GitHub stats" src="https://github-readme-stats.asklar.vercel.app/api?username=movpushmov&show_icons=true&hide_border=true" />
-<img align="left" alt="movpushmov's GitHub repos" src="https://github-readme-stats.asklar.vercel.app/api/top-langs?username=movpushmov&hide_border=true" />
+<img align="left" alt="movpushmov's GitHub stats" src="https://github-readme-stats.asklar.vercel.app/api?username=White656&show_icons=true&hide_border=true" />
+<img align="left" alt="movpushmov's GitHub repos" src="https://github-readme-stats.asklar.vercel.app/api/top-langs?username=White656&hide_border=true" />
 
 <img src="https://user-images.githubusercontent.com/49155506/136664698-49d3249c-2ef2-450a-a879-e8ae4a0f13c3.gif"/>
