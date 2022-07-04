@@ -12,11 +12,11 @@
 [![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)](#)
 [![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=Python)](#)
 [![Django](https://img.shields.io/badge/-Django-grey?style=for-the-badge&logo=Django)](#)
-[![Falcon](https://img.shields.io/badge/-Falcon-grey.svg?style=for-the-badge&logo=Falcon)](#)
+[![FLASK](https://img.shields.io/badge/-Flask-grey.svg?style=for-the-badge&logo=Flask)](#)
 <!--[![Flask](https://img.shields.io/badge/-Flask-grey.svg?style=for-the-badge&logo=Flask)](#)-->
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)](#)
-[![MYSQL](https://img.shields.io/badge/-MongoDB-grey.svg?style=for-the-badge&logo=mysql)](#)
+[![MYSQL](https://img.shields.io/badge/-MySQL-grey.svg?style=for-the-badge&logo=mysql)](#)
 [![REDIS](https://img.shields.io/badge/-Redis-grey.svg?style=for-the-badge&logo=REDIS)](#)
 
 [![DOCKER](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=Docker)](#)
