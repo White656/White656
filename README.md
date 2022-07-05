@@ -1,5 +1,5 @@
 
- ### Hello World! My name is Kirill (White656)
+ ### Hello World! My name is Kirill. I'm middle python developer
 
  - MacOS Love 
  - looking for ideas...
