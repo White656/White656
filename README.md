@@ -12,7 +12,7 @@
 [![mongoDB](https://img.shields.io/badge/mongoDB-grey.svg?style=for-the-badge&logo=mongoDB)](#)
 [![KAFKA](https://img.shields.io/badge/kafka-grey.svg?style=for-the-badge&logo=Apache-Kafka)](#)
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-grey.svg?style=for-the-badge&logo=postgreSQL)](#)
-[![MYSQL](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=mysql)](#)
+[![MYSQL](https://img.shields.io/badge/MYSQL-grey.svg?style=for-the-badge&logo=mysql)](#)
 [![ELASTICSEARCH](https://img.shields.io/badge/ElasticSearch-grey.svg?style=for-the-badge&logo=elasticsearch)](#)
 [![REDIS](https://img.shields.io/badge/Kibana-grey.svg?style=for-the-badge&logo=Kibana)](#)
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-grey.svg?style=for-the-badge&logo=rabbitMQ)](#)
