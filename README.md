@@ -21,7 +21,6 @@ For me:
 [![FASTAPI](https://img.shields.io/badge/fastAPI-grey.svg?style=for-the-badge&logo=fastAPI)](#)
 [![FLASK](https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask)](#)
 [![FLASK](https://img.shields.io/badge/aiohttp-grey.svg?style=for-the-badge&logo=aiohttp)](#)
-[![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
 
 [![mongoDB](https://img.shields.io/badge/mongoDB-grey.svg?style=for-the-badge&logo=mongoDB)](#)
 [![KAFKA](https://img.shields.io/badge/kafka-grey.svg?style=for-the-badge&logo=Apache-Kafka)](#)
@@ -32,6 +31,9 @@ For me:
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-grey.svg?style=for-the-badge&logo=rabbitMQ)](#)
 [![REDIS](https://img.shields.io/badge/redis-grey.svg?style=for-the-badge&logo=redis)](#)
 [![REDIS](https://img.shields.io/badge/Celery-grey.svg?style=for-the-badge&logo=celery)](#)
+
+[![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
+[![DOCKER](https://img.shields.io/badge/Docker-grey.svg?style=for-the-badge&logo=docker)](#)
 
 [![GIT](https://img.shields.io/badge/Git-grey.svg?style=for-the-badge&logo=Git)](#)
 [![GITHUB](https://img.shields.io/badge/GitHub-grey.svg?style=for-the-badge&logo=GitHub)](#)
