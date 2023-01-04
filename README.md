@@ -6,6 +6,14 @@ For me:
 - *Study web3 language and technologies*
 - *I have a telegram channel with notes :)*
 
+### Projects in which he took part:
+
+- [Hoop](https://hoop.co.uk) - Service for study children in England.
+- [AthleticBot](https://t.me/AthleticClub_bot) - Bot for gym clubs in Moscow.
+- [Admin Panel](https://github.com/White656/admin_service.git) - Service administrative panel from projects.
+- [Document Paragraph](https://github.com/White656/Document-Paragraph-Service.git) - Service from document markup using
+  neural networks
+
 ### Languages and Tools:
 
 [![PYTHON](https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python)](#)
