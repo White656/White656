@@ -8,7 +8,6 @@
 [![FLASK](https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask)](#)
 [![FLASK](https://img.shields.io/badge/aiohttp-grey.svg?style=for-the-badge&logo=aiohttp)](#)
 [![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
-[![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
 
 [![mongoDB](https://img.shields.io/badge/mongoDB-grey.svg?style=for-the-badge&logo=mongoDB)](#)
 [![KAFKA](https://img.shields.io/badge/kafka-grey.svg?style=for-the-badge&logo=Apache-Kafka)](#)
