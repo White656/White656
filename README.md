@@ -30,5 +30,5 @@
 
 ### My GitHub stats:
 
-![White656 GitHub stats](https://github-readme-stats.vercel.app/api?username=White656&show_icons=True&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=White656&layout=compact)](https://github.com/White656/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.asklar.vercel.app/api?show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Github&nbsp;Stats&username=White656)](https://github.com/anuraghazra/github-readme-stats)
+
