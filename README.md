@@ -1,5 +1,11 @@
 ### Hi there! I'm Kirill, Python back-end Engineer.
 
+For me:
+
+- *Interested in development patterns*
+- *Study web3 language and technologies*
+- *I have a telegram channel with notes :)*
+
 ### Languages and Tools:
 
 [![PYTHON](https://img.shields.io/badge/python-grey.svg?style=for-the-badge&logo=python)](#)
@@ -8,11 +14,12 @@
 [![FLASK](https://img.shields.io/badge/flask-grey.svg?style=for-the-badge&logo=flask)](#)
 [![FLASK](https://img.shields.io/badge/aiohttp-grey.svg?style=for-the-badge&logo=aiohttp)](#)
 [![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
+[![NGINX](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=nginx)](#)
 
 [![mongoDB](https://img.shields.io/badge/mongoDB-grey.svg?style=for-the-badge&logo=mongoDB)](#)
 [![KAFKA](https://img.shields.io/badge/kafka-grey.svg?style=for-the-badge&logo=Apache-Kafka)](#)
 [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-grey.svg?style=for-the-badge&logo=postgreSQL)](#)
-[![MYSQL](https://img.shields.io/badge/MYSQL-grey.svg?style=for-the-badge&logo=mysql)](#)
+[![MYSQL](https://img.shields.io/badge/Nginx-grey.svg?style=for-the-badge&logo=mysql)](#)
 [![ELASTICSEARCH](https://img.shields.io/badge/ElasticSearch-grey.svg?style=for-the-badge&logo=elasticsearch)](#)
 [![REDIS](https://img.shields.io/badge/Kibana-grey.svg?style=for-the-badge&logo=Kibana)](#)
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-grey.svg?style=for-the-badge&logo=rabbitMQ)](#)
