@@ -32,6 +32,7 @@ For me:
 [![REDIS](https://img.shields.io/badge/Kibana-grey.svg?style=for-the-badge&logo=Kibana)](#)
 [![RABBITMQ](https://img.shields.io/badge/RabbitMQ-grey.svg?style=for-the-badge&logo=rabbitMQ)](#)
 [![REDIS](https://img.shields.io/badge/redis-grey.svg?style=for-the-badge&logo=redis)](#)
+[![REDIS](https://img.shields.io/badge/Celery-grey.svg?style=for-the-badge&logo=celery)](#)
 
 [![GIT](https://img.shields.io/badge/Git-grey.svg?style=for-the-badge&logo=Git)](#)
 [![GITHUB](https://img.shields.io/badge/GitHub-grey.svg?style=for-the-badge&logo=GitHub)](#)
