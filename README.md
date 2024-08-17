@@ -39,10 +39,7 @@ For me:
 [![GITHUB](https://img.shields.io/badge/GitHub-grey.svg?style=for-the-badge&logo=GitHub)](#)
 [![GITLAB](https://img.shields.io/badge/GitLab-grey.svg?style=for-the-badge&logo=GitLab)](#)
 [![LINUX](https://img.shields.io/badge/Linux-grey.svg?style=for-the-badge&logo=Linux)](#)
-[![MACOS](https://img.shields.io/badge/macos-grey.svg?style=for-the-badge&logo=Macos)](#)
-[![NOTION](https://img.shields.io/badge/notion-grey.svg?style=for-the-badge&logo=Notion)](#)
-[![JIRA](https://img.shields.io/badge/Jira-grey.svg?style=for-the-badge&logo=Jira)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-grey.svg?style=for-the-badge&logo=PyCharm)](#)
+
 
 ### My GitHub stats:
 
