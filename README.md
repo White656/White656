@@ -1,4 +1,4 @@
-### Hi there! I'm Kirill, Python back-end Engineer.
+### Hi there! I'm Kirill, DevOps/Backend Engineer.
 
 For me:
 
